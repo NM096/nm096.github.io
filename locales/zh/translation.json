@@ -1,0 +1,120 @@
+{
+  "header": {
+    "login": "登录",
+    "titlebar": "标题栏"
+  },
+  "banner": {
+    "title": {
+      "part1": "量化",
+      "part2": "交易",
+      "part3": "加密货币"
+    },
+    "description": {
+      "part1": "Angelab是一个领先的人工智能驱动的量化交易平台，专为个人投资者和机构交易者设计。",
+      "part2": "我们的策略在最终风险控制的前提下追求更高的年化收益率（APY）。"
+    },
+    "stats": {
+      "aum": "资产管理规模",
+      "yield": "收益率",
+      "profitRate": "利润率"
+    }
+  },
+  "investment": {
+    "title": "投资方式",
+    "tabs": {
+      "app": "Angelab应用",
+      "platform": "第三方平台托管",
+      "compliance": "合规性保障"
+    },
+    "content": {
+      "platform": "我们的量化交易策略产品在合法持牌的第三方平台（如Matrixport）上推出。客户资金由第三方平台托管，我们仅通过API（应用程序接口）方式执行交易策略。",
+      "app": "这款APP是我们自主开发的平台。客户资金由加密货币交易所托管。客户可以在APP中选择自己喜欢的产品，查看资产的实时增值情况。",
+      "compliance": "该基金是英属维尔京群岛（BVI）的合法持牌实体。遵循完整的合规程序。最低投资额为10万美元。投资者需通过KYC（了解你的客户）审查和反洗钱审查。"
+    }
+  },
+  "technology": {
+    "title": "核心技术",
+    "subtitle": "在确保终极风险控制的前提下，自主研发的风控系统不断追求更高的回报率。",
+    "riskControl": {
+      "title": "基于AI的风险控制和人工干预风险控制",
+      "description": "风控模块包括：仓位风险监控与管理、资产转换比例实时监控与管理、杠杆自动调整与联动管理、异常数据和信号反馈与自动处理、数据监控报警和实时仪表盘，以及策略执行系统异常的自动纠错和定期自审。"
+    }
+  },
+  "partner": {
+    "title": "特色策略",
+    "footer": {
+      "company": {
+        "title": "公司",
+        "about": "关于我们",
+        "contact": "联系我们",
+        "careers": "工作机会"
+      },
+      "product": {
+        "title": "产品",
+        "features": "功能特点",
+        "pricing": "价格"
+      },
+      "resources": {
+        "title": "资源",
+        "downloads": "下载",
+        "community": "社区"
+      },
+      "social": {
+        "title": "关注我们"
+      },
+      "bottom": {
+        "copyright": "2024 公司版权所有",
+        "terms": "服务条款",
+        "privacy": "隐私政策",
+        "language": "中文"
+      }
+    }
+  },
+  "strategy": {
+    "mint": {
+      "one": {
+        "title": "高频交易",
+        "subTitle": "名额有限",
+        "inited": {
+          "prefix": "仅限邀请",
+          "suffix": "（Mint No.2 用户享有优先权）"
+        },
+        "mintPrivilege": "Mint Two 投资者特权",
+        "content": "采用极其高效的策略执行系统和基础设施部署，最高月化收益率达到160%。"
+      },
+      "two": {
+        "title": "资金费率套利",
+        "subTitle": "无限额度",
+        "inited": {
+          "prefix": "仅限邀请",
+          "suffix": "（Mint No.2 用户享有优先权）"
+        },
+        "mintPrivilege": "Mint Two 投资者特权",
+        "content": "加密市场最传统的资金费率套利策略，在实现最大单日回撤0.08%的同时，年化收益率(APY)达到24%。"
+      },
+      "three": {
+        "title": "量化对冲",
+        "subTitle": "名额有限",
+        "inited": {
+          "prefix": "仅限邀请",
+          "suffix": "（Mint No.2 用户享有优先权）"
+        },
+        "mintPrivilege": "Mint Two 投资者特权",
+        "content": "通过量化交易，实现场内和跨场对冲，月化收益率达到40%。"
+      }
+    },
+    "funding": {
+      "title": "量化对冲",
+      "subTitle": "名额有限",
+      "inited": {
+        "prefix": "仅限邀请",
+        "suffix": "（Mint No.2 用户享有优先权）"
+      },
+      "mintPrivilege": "Mint Two 投资者特权",
+      "content": "通过量化交易，实现场内和跨场对冲，月化收益率达到40%。"
+    },
+    "MintOne": "选项一",
+    "MintTwo": "选项二",
+    "MintThree": "选项三"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "header": {
+    "login": "Login in",
+    "titlebar": "Titlebar"
+  },
+  "banner": {
+    "title": {
+      "part1": "Quantitative",
+      "part2": "Trading",
+      "part3": "in Crypto"
+    },
+    "description": {
+      "part1": "Angelab is a leading AI-driven quantitative trading platform designed for individual investors and institutional traders.",
+      "part2": "Our Strategies are pursue a higher annualized percentage yield (APY) on the premise of ultimate risk control."
+    },
+    "stats": {
+      "aum": "AUM",
+      "yield": "Yield",
+      "profitRate": "Profit rate"
+    }
+  },
+  "investment": {
+    "title": "Investment method",
+    "tabs": {
+      "app": "Angelab APP",
+      "platform": "Third-party platform custody",
+      "compliance": "Full compliance"
+    },
+    "content": {
+      "platform": "Our quantitative trading strategy products are launched on a legally licensed third-party platform (such as Matrixport). The clients' funds are entrusted to the custody of the third-party platform, and we only execute trading strategies through the API (Application Programming Interface) method.",
+      "app": "This APP is a platform developed by ourselves. Clients' funds are entrusted to cryptocurrency exchanges for custody. Clients can select their preferred products in the APP and view the real-time appreciation of their assets.",
+      "compliance": "The fund is a legally licensed entity in the British Virgin Islands (BVI). It adheres to a complete set of compliance procedures. The minimum investment amount is US$100,000. Investors are required to pass the Know Your Customer (KYC) review and anti-money laundering review."
+    }
+  },
+  "technology": {
+    "title": "Core Technology",
+    "subtitle": "The self-developed risk control system, on the premise of ensuring ultimate risk control, continuously pursues a higher rate of return.",
+    "riskControl": {
+      "title": "AI-based risk control & human-intervened risk control",
+      "description": "The risk control module includes: monitoring and management of position risks, real-time monitoring and management of asset conversion ratios, automatic adjustment and linked management of leverage, feedback and automated processing of abnormal data and signals, data monitoring alarms and real-time dashboards, as well as automatic error correction and regular self-auditing for anomalies in the strategy execution system."
+    }
+  },
+  "partner": {
+    "title": "Featured Strategy",
+    "footer": {
+      "company": {
+        "title": "Company",
+        "about": "About us",
+        "contact": "Contact us",
+        "careers": "Careers"
+      },
+      "product": {
+        "title": "Product",
+        "features": "Features",
+        "pricing": "Pricing"
+      },
+      "resources": {
+        "title": "Resources",
+        "downloads": "Downloads",
+        "community": "Community"
+      },
+      "social": {
+        "title": "FOLLOW US"
+      },
+      "bottom": {
+        "copyright": "2024 company",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy",
+        "language": "English"
+      }
+    }
+  },
+  "strategy": {
+    "mint": {
+      "one": {
+        "title": "High-frequency trading",
+        "subTitle": "Capacity limited",
+        "inited": {
+          "prefix": "Invited only",
+          "suffix": "（Customers who purchased Mint No. 2 enjoy priority share）"
+        },
+        "mintPrivilege": "Mint Two investor has privilege",
+        "content": "Trade with extremely efficient strategy execution systems and infrastructure deployments，the highest monthly annualized rate of return has reached 160%."
+      },
+      "two": {
+        "title": "Funding rate arbitrage",
+        "subTitle": "Unlimited Capacity",
+        "content": "The most conventional funding-rate arbitrage strategy in Crypto market, while achieving a maximum single-day drawdown of 0.08%, an annualized percentage yield (APY) of 24% has been realized."
+      },
+      "three": {
+        "title": "Quantitative hedging",
+        "subTitle": "Capacity limited",
+        "content": "Through quantitative trading, intra-exchange and cross-exchange hedging is implemented, with a monthly annualized rate of return of 40%."
+      }
+    },
+    "funding": {
+      "title": "Quantitative hedging",
+      "subTitle": "Capacity limited",
+      "content": "Through quantitative trading, intra-exchange and cross-exchange hedging is implemented, with a monthly annualized rate of return of 40%."
+    },
+    "MintOne": "Mint One",
+    "MintTwo": "Mint Two",
+    "MintThree": "Mint Three"
+  }
+}
